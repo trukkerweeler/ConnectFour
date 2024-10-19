@@ -64,3 +64,4 @@ C:\Users\tim\Documents\cse325hw\cse325cf\ConnectFour\obj\Debug\net8.0\refint\Con
 C:\Users\tim\Documents\cse325hw\cse325cf\ConnectFour\obj\Debug\net8.0\ConnectFour.pdb
 C:\Users\tim\Documents\cse325hw\cse325cf\ConnectFour\obj\Debug\net8.0\ConnectFour.genruntimeconfig.cache
 C:\Users\tim\Documents\cse325hw\cse325cf\ConnectFour\obj\Debug\net8.0\ref\ConnectFour.dll
+C:\Users\tim\Documents\cse325hw\cse325cf\ConnectFour\obj\Debug\net8.0\ConnectFour.sourcelink.json
